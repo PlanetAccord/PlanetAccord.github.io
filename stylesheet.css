@@ -15,3 +15,7 @@ ul {
 table, td {
 	border: 1px #70b8ff;
 }
+
+body {
+    background-color: black;
+}
