@@ -7,8 +7,9 @@ ul {
 	list-style-type: none;
 }
 
-#pic {
-	width: 250px;
+#bg {
+    height: 930px;
+	width: auto;
 }
 
 table, td {
